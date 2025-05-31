@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n9z3sLg.png",Rápidos y Furiosos 9
+https://videoserver.com/rapidos9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euFjObP.png",Avengers: Endgame
+https://videoserver.com/avengers-endgame.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WJg7rkW.png",El Conjuro 3
+https://videoserver.com/elconjuro3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZVjM4j.png",Minions: Nace un villano
+https://videoserver.com/minions-nace-villano.mpd
