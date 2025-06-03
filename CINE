@@ -1,21 +1,11 @@
-#EXTM3U
+#EXTINF:-1,Avatar (MP4)
+https://servidor.com/avatar.mp4
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n9z3sLg.png",Rápidos y Furiosos 9
-https://videoserver.com/rapidos9.mp4
-
+#EXTINF:-1,John Wick (HLS)
+https://servidor.com/johnwick.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/euFjObP.png",Avengers: Endgame
-https://videoserver.com/avengers-endgame.mp4
+#EXTINF:-1,Spider-Man (iframe)
+iframe:https://dhcplay.com/e/hebs4ytnl2j3
 
-
-#EX
-TINF:-1 tvg-logo="https://i.imgur.com/WJg7rkW.png",El Conjuro 3
-https://be4235.rcr32.ams02.cdn255.com/hls2/02/05795/1itftdbfnxlz_n/master.m3u8?t=g0_Jj57V-ETXcV5TdRyn5ua-7Uv2JEpwxf6r00RCYwk&s=1748994423&e=10800&f=29123283&srv=27&asn=28015&sp=4000&p=
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zZVjM4j.png",Minions: La leyenda del samurái: 47 ronin
-https://swiftplayers.com/stream/7fyIDrxB3I7Nk3wzyZCzag/kjhhiuahiuhgihdf/1748778844/52089930/master.m3u8
