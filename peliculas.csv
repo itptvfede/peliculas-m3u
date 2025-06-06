@@ -1,6 +1,6 @@
 nombre,url,logo
 NEOTV,https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8,https://logos.tvfede.com/avatar2.png
-Noticiero,https://videos.tvfede.com/noticiero.m3u8,https://logos.tvfede.com/noticiero.png
+MAGICKIDS,https://magicstream.ddns.net/magicstream/stream.m3u8,https://logos.tvfede.com/noticiero.png
 BIGCHANNEL,https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8,https://logos.tvfede.com/pelicula.png
 YouTube Live,https://www.youtube.com/watch?v=dQw4w9WgXcQ,https://logos.tvfede.com/youtube.png
 
