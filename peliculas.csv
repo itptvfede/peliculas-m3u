@@ -1,14 +1,7 @@
 nombre,url,logo
+NEOTV,https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8,https://logos.tvfede.com/avatar2.png
+Noticiero,https://videos.tvfede.com/noticiero.m3u8,https://logos.tvfede.com/noticiero.png
+BIGCHANNEL,https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/chunks.m3u8,https://logos.tvfede.com/pelicula.png
+YouTube Live,https://www.youtube.com/watch?v=dQw4w9WgXcQ,https://logos.tvfede.com/youtube.png
 
-
-Avatar2,https://canalesonline.netlify.app/servidores/cvatt.html?get=Q2FuYWw3,https://midominio.com/logos/avatar2.png
-
-
-MONITV,https://tv.arkeo.cl:19360/8134/8134.m3u8,https://midominio.com/logos/news.png
-
-
-Película HD,https://midominio.com/film.mpd,https://midominio.com/logos/film.png
-
-
-YouTube Live,https://www.youtube.com/watch?v=dQw4w9WgXcQ,https://midominio.com/logos/youtube.png
 
