@@ -1,7 +1,4 @@
-nombre,url,logo
+nombre,url
 TyC Sports,https://tvlibreonline.org/html/fl/?get=VHlDU3BvcnQ
-Telefe,https://tvlibreonline.org/html/fl/?get=VGVsZVRlcm5h,https://upload.wikimedia.org/wikipedia/commons/0/0f/Telefe_2021_logo.svg
-ESPN,https://bestleague.one/cvatt.html?get=RVNQTjJIRA&lang=1,https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg
-YouTube Canal,https://www.youtube.com/watch?v=abcd1234,https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png
-Canal M3U8 SD,https://example.com/streamSD.m3u8,https://via.placeholder.com/40?text=SD
-Canal M3U8 HD,https://example.com/streamHD.m3u8,https://via.placeholder.com/40?text=HD
+Telefe,https://tvlibreonline.org/html/fl/?get=VGVsZVRlcm5h
+ESPN,https://bestleague.one/cvatt.html?get=RVNQTjJIRA&lang=1
